@@ -1,12 +1,12 @@
 # DevOps Based Automated Deployment System
 
-Field Project - BCA Third Year
+Field Project-BCA Third Year
 Deogiri College, Chhatrapati Sambhajinagar
-Student: Kaveri Sanjay Pathe
-Guide: Samiksha Bari
+Student:Kaveri Sanjay Pathe
+Guide:Samiksha Bari
 
 ## Aim
-To design automated deployment system using CI/CD, Docker, Kubernetes and AWS.
+To design automated deployment system using CI/CD,Docker,Kubernetes and AWS.
 
 ## Tech Stack
 - GitHub Actions

@@ -1,7 +1,7 @@
 # DevOps Based Automated Deployment System
 
 Field Project-BCA Third Year
-Deogiri College,Chhatrapati Sambhajinagar
+ Deogiri College,Chhatrapati Sambhajinagar
 Student:Kaveri Sanjay Pathe
 Guide:Samiksha Bari
 
